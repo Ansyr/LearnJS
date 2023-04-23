@@ -4,7 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
+<<<<<<< HEAD
 .idea
+=======
+
+>>>>>>> 524343d (Initialize project using Create React App)
 # testing
 /coverage
 
